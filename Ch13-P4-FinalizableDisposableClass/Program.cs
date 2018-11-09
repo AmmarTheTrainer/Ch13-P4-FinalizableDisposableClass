@@ -10,6 +10,7 @@ namespace Ch13_P4_FinalizableDisposableClass
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
